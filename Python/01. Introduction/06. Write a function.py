@@ -4,6 +4,7 @@ Difficulty: Medium
 Max score: 10
 '''
 
+# SOLUTION START
 def is_leap(year):
     leap = False
     
@@ -20,6 +21,7 @@ def is_leap(year):
         leap = False
     
     return leap
+# SOLUTION END
 
 year = int(input())
 print(is_leap(year))
