@@ -16,3 +16,10 @@ SELECT DISTINCT city FROM station
 WHERE LEFT(city,1) NOT IN ('a','e','i','o','u') 
 OR 
 RIGHT(city,1) NOT IN ('a','e','i','o','u');
+
+
+'''
+right() : function extracts a number of characters from a string (starting from right)
+left() : starting from right
+Syntax: RIGHT(string, number_of_chars), LEFT(string, number_of_chars)
+'''
