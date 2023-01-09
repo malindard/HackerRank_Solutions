@@ -1,5 +1,5 @@
 /*
-Link: https://www.hackerrank.com/challenges/weather-observation-station-3/problem?isFullScreen=true
+Link: https://www.hackerrank.com/challenges/weather-observation-station-5/problem?isFullScreen=true
 Difficulty: easy
 Max score: 30
 Skills: SQL Intermediate
