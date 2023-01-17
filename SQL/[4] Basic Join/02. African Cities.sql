@@ -1,5 +1,5 @@
 /*
-Link: https://www.hackerrank.com/challenges/asian-population/problem?isFullScreen=true
+Link: https://www.hackerrank.com/challenges/african-cities/problem?isFullScreen=true
 Difficulty: easy
 Max score: 10
 */
