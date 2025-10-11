@@ -15,3 +15,11 @@ if __name__ == '__main__':
 set() : method is used to convert any of the iterable to sequence of iterable elements with distinct elements
 sorted() : creates a new sequence type containing a sorted version of the given sequence
 '''
+# ANOTHER SOLUTION
+if __name__ == '__main__':
+    n = int(input())
+    arr = map(int, input().split())
+    
+    arr = list(set(arr))
+    arr = sorted(arr, reverse=True)
+    print(arr[1])
